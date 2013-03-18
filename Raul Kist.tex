@@ -18,11 +18,16 @@
 % used for structuring the document.
 %
 
-%----------------------------------------------------------------------------------------
-%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
-%----------------------------------------------------------------------------------------
+
+
+
+
+
+
+
 \hyphenation{Campinas}
 \hyphenation{UNICAMP}
+\hyphenation{Pi-ras-su-nun-ga}
 
 \documentclass[11pt,a4paper,sans]{moderncv} % Font sizes: 10, 11, or 12; paper sizes: a4paper, letterpaper, a5paper, legalpaper, executivepaper or landscape; font families: sans or roman
 
@@ -35,9 +40,13 @@
 %\setlength{\hintscolumnwidth}{3cm} % Uncomment to change the width of the dates column
 %\setlength{\makecvtitlenamewidth}{10cm} % For the 'classic' style, uncomment to adjust the width of the space allocated to your name
 
-%----------------------------------------------------------------------------------------
-%	NAME AND CONTACT INFORMATION SECTION
-%----------------------------------------------------------------------------------------
+
+
+
+
+
+
+
 
 \firstname{Raul} % Your first name
 \familyname{Kist} % Your last name
@@ -72,18 +81,26 @@
 
 %\subsection{Vocational}
 
-\cventry{2010--Present}{Software Engineer}{\textsc{Schlumberger}}{Rio de Janeiro}{Brazil}{Development of new products and technologies of software for Oil \& Gas Industry, particularly focused on geophysics tools for Petrel E\&P Software Platform. }
+\cventry{2010--Present}{Software Engineer}{\textsc{Schlumberger}}{Rio de Janeiro}{Brazil}
+{
+Development of new products and technologies of software for Oil \& Gas Industry, particularly focused on geophysics tools for Petrel E\&P Software Platform. 
+}
 
 
 %------------------------------------------------
 
-\cventry{2006--2010}{Intern}{\textsc{Microsoft Innovation Center}}{Campinas}{Brazil}{Research on High Performance Computing, Distributed Systems and Virtualization, integrating Microsoft and open source technologies.}
+\cventry{2006--2010}{Intern}{\textsc{Microsoft Innovation Center}}{Campinas}{Brazil}
+{
+Research on High Performance Computing, Distributed Systems and Virtualization, integrating Microsoft and open source technologies.
+}
 
 %------------------------------------------------
 
 \subsection{Miscellaneous}
 
-\cventry{2007--2009}{Microsoft Student Partner}{}{}{}{Academic lectures about Microsoft related technology.}
+\cventry{2007--2009}{Microsoft Student Partner}{}{}{}
+{Former Microsoft 'Student Ambassador' position.\newline{}
+Academic lectures and articles about Microsoft related technology.}
 
 
 
@@ -94,8 +111,12 @@
 
 \section{Education}
 
-\cventry{2006--2011}{Computer Engineering}{UNICAMP - Universidade Estadual de Campinas}{Campinas}{\textit{Brazil}}{Modality AA -- Computer Systems}  % Arguments not required can be left empty
-\cventry{2004--2006}{Military Aviation}{Academia da For\c{c}a A\'erea (Air Force Academy)}{Pirassununga}{\textit{Brazil}}{Air Force Cadet}
+\cventry{2006--2011}{Computer Engineering}{UNICAMP - Universidade Estadual de Campinas}{Campinas - Brazil}{}{Modality AA -- Computer Systems}  % Arguments not required can be left empty
+\cventry{2004--2006}{Pilot Officers Graduation Course (Curso de Forma\c{c}\~ao de Oficiais Aviadores)}{Brazilian Air Force Academy (Academia da For\c{c}a A\'erea)}{Pirassununga - Brazil}{\textit{Unfinished}}
+{
+Ranked as Air Force Cadet. \newline{}
+Course curriculum covers the areas of Military Aviation and Business Administration. 
+}
 
 %\section{Masters Thesis}
 
@@ -125,7 +146,7 @@
 
 
 \section{Publications}
-\cventry{2010}{ViCOS - Virtual Cluster Orchestration System}{CLCAR - Latin American Conference on High Performance Computing}{}{}{ViCOS (short for 'Virtual Cluster Orchestration System') is an environment aware load balancing virtual cluster system that coordinates virtual machines that offer some service (HPC, SOA, etc) in a failover cluster, making a multipurpose environment which the main goal is to reduce the wasting of the infrastructure's computational potential. ViCOS applies cloud computing concepts to high performance compute to ensure a flexible, economic and reliable environment for performing tasks demanding high performance.\newline{}
+\cventry{2010}{ViCOS - Virtual Cluster Orchestration System}{CLCAR - Latin American Conference on High Performance Computing}{ISBN 978-85-7727-252-5}{}{ViCOS (short for 'Virtual Cluster Orchestration System') is an environment aware load balancing virtual cluster system that coordinates virtual machines that offer some service (HPC, SOA, etc) in a failover cluster, making a multipurpose environment which the main goal is to reduce the wasting of the infrastructure's computational potential. ViCOS applies cloud computing concepts to high performance compute to ensure a flexible, economic and reliable environment for performing tasks demanding high performance.\newline{}
 In order to do that, it uses the available idle machines of the environment, occupying them with virtual machines on demand and adapting to resources changes: if a host is to be used for other purposes, the system migrates the VMs to another host, so the task isn't interrupted and can continue elsewhere. \newline{}
 Therefore, the physical resources are managed without work load interruption, and the system fits itself to the environment, automatically expanding and contracting based on resource demand, focusing in both performance increase and energy savings.}
 

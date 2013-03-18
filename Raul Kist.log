@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  18 MAR 2013 13:57
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  18 MAR 2013 20:10
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -356,29 +356,29 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip69
 )
-Package hyperref Info: Option `breaklinks' set `true' on input line 63.
-Package hyperref Info: Option `bookmarksopen' set `true' on input line 63.
+Package hyperref Info: Option `breaklinks' set `true' on input line 72.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 72.
 
 (./Raul Kist.aux)
 \openout1 = `"Raul Kist.aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Try loading font information for T1+lmr on input line 63.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Try loading font information for T1+lmr on input line 72.
  (/usr/local/texlive/2011/texmf-dist/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
@@ -410,7 +410,7 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-LaTeX Info: Redefining \microtypecontext on input line 63.
+LaTeX Info: Redefining \microtypecontext on input line 72.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -425,7 +425,7 @@ Package microtype Info: No adjustment of character kerning.
 File: mt-cmr.cfg 2009/11/09 v2.0 microtype config. file: Computer Modern Roman 
 (RS)
 )
-LaTeX Font Info:    Try loading font information for T1+lmss on input line 63.
+LaTeX Font Info:    Try loading font information for T1+lmss on input line 72.
 
 (/usr/local/texlive/2011/texmf-dist/tex/latex/lm/t1lmss.fd
 File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
@@ -465,7 +465,7 @@ File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 \AtBeginShipoutBox=\box30
-Package hyperref Info: Link coloring OFF on input line 63.
+Package hyperref Info: Link coloring OFF on input line 72.
 (/usr/local/texlive/2011/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2010/04/30 v2.40 Cross-referencing by name of section
 
@@ -474,9 +474,9 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count107
 )
-LaTeX Info: Redefining \ref on input line 63.
-LaTeX Info: Redefining \pageref on input line 63.
-LaTeX Info: Redefining \nameref on input line 63.
+LaTeX Info: Redefining \ref on input line 72.
+LaTeX Info: Redefining \pageref on input line 72.
+LaTeX Info: Redefining \nameref on input line 72.
 
 (./Raul Kist.out) (./Raul Kist.out)
 \@outlinefile=\write3
@@ -484,76 +484,76 @@ LaTeX Info: Redefining \nameref on input line 63.
 
 \pagenumberwidth=\skip70
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10.95> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 63.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 72.
 \makecvtitlepicturebox=\box31
 
 <pictures/picture.jpg, id=33, 185.69376pt x 185.69376pt>
 File: pictures/picture.jpg Graphic file (type jpg)
 
 <use pictures/picture.jpg>
-Package pdftex.def Info: pictures/picture.jpg used on input line 65.
+Package pdftex.def Info: pictures/picture.jpg used on input line 74.
 (pdftex.def)             Requested size: 70.0pt x 70.00049pt.
 \makecvtitlepicturewidth=\skip71
 
-Underfull \hbox (badness 10000) in paragraph at lines 65--65
+Underfull \hbox (badness 10000) in paragraph at lines 74--74
 
  []
 
-LaTeX Font Info:    Try loading font information for OT1+lmr on input line 75.
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 87.
 (/usr/local/texlive/2011/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OML+lmm on input line 75.
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 87.
 
 (/usr/local/texlive/2011/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 75.
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 87.
 
 
 (/usr/local/texlive/2011/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMX+lmex on input line 75.
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 87.
 
 
 (/usr/local/texlive/2011/texmf-dist/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 75.
+(Font)              <10.95> on input line 87.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 75.
+(Font)              <8> on input line 87.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 75.
+(Font)              <6> on input line 87.
 
 
 LaTeX Font Warning: Font shape `T1/lmss/m/sc' in size <10.95> not available
-(Font)              Font shape `T1/lmr/m/sc' tried instead on input line 75.
+(Font)              Font shape `T1/lmr/m/sc' tried instead on input line 87.
 
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/lmr/m/sc/10.95'.
 (microtype)             Ignoring protrusion settings for this character.
 
-Underfull \hbox (badness 1484) in paragraph at lines 97--97
+Underfull \hbox (badness 1484) in paragraph at lines 114--114
 []\T1/lmss/bx/n/10.95 Computer En-gi-neer-ing\T1/lmss/m/n/10.95 (+20) , \T1/lms
 s/m/sl/10.95 UNICAMP - Uni-ver-si-dade Es-tad-ual de Campinas\T1/lmss/m/n/10.95
  (+20) ,
  []
 
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 116.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 137.
 (/usr/local/texlive/2011/texmf-dist/tex/latex/microtype/mt-mvs.cfg
 File: mt-mvs.cfg 2006/07/05 v1.1 microtype config. file: Marvosym Euro (RS)
 )
-LaTeX Font Info:    Try loading font information for OMS+lmr on input line 131.
+LaTeX Font Info:    Try loading font information for OMS+lmr on input line 152.
 
 
 (/usr/local/texlive/2011/texmf-dist/tex/latex/lm/omslmr.fd
 File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `OMS/lmr/m/sl' in size <10.95> not available
-(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 131.
+(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 152.
 
 
 Package Fancyhdr Warning: \footskip is too small (30.0pt): 
@@ -565,7 +565,7 @@ Package Fancyhdr Warning: \footskip is too small (30.0pt):
 
 {/usr/local/texlive/2011/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./pictu
 res/picture.jpg>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 201.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 222.
 
 
 Package Fancyhdr Warning: \footskip is too small (30.0pt): 
@@ -574,20 +574,20 @@ Package Fancyhdr Warning: \footskip is too small (30.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [2]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 201.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 222.
  (./Raul Kist.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 201.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 201.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 222.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 222.
 Package rerunfilecheck Info: File `"Raul Kist".out' has not changed.
 (rerunfilecheck)             Checksum: 7A2A7BC193B9E7396A43F7B0EDB4EBA4;732.
  ) 
 Here is how much of TeX's memory you used:
- 9775 strings out of 493633
- 143950 string characters out of 3143378
- 274968 words of memory out of 3000000
+ 9774 strings out of 493633
+ 143939 string characters out of 3143378
+ 275972 words of memory out of 3000000
  12875 multiletter control sequences out of 15000+200000
- 61994 words of font info for 66 fonts, out of 3000000 for 9000
- 833 hyphenation exceptions out of 8191
+ 61893 words of font info for 65 fonts, out of 3000000 for 9000
+ 834 hyphenation exceptions out of 8191
  46i,12n,67p,769b,485s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/local/texlive/2011/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/lo
 cal/texlive/2011/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</usr/local/texlive/20
@@ -599,7 +599,7 @@ sbx10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/lm/lmsso10.pfb
 ></usr/local/texlive/2011/texmf-dist/fonts/type1/public/lm/lmsso17.pfb></usr/lo
 cal/texlive/2011/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/local/texliv
 e/2011/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb>
-Output written on "Raul Kist.pdf" (2 pages, 176331 bytes).
+Output written on "Raul Kist.pdf" (2 pages, 178462 bytes).
 PDF statistics:
  98 PDF objects out of 1000 (max. 8388607)
  78 compressed objects within 1 object stream
