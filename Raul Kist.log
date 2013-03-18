@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  18 MAR 2013 00:23
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  18 MAR 2013 13:54
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -487,7 +487,7 @@ LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10.95> not available
 (Font)              Font shape `T1/lmss/m/sl' tried instead on input line 63.
 \makecvtitlepicturebox=\box31
 
-<pictures/picture.jpg, id=37, 185.69376pt x 185.69376pt>
+<pictures/picture.jpg, id=33, 185.69376pt x 185.69376pt>
 File: pictures/picture.jpg Graphic file (type jpg)
 
 <use pictures/picture.jpg>
@@ -499,58 +499,61 @@ Underfull \hbox (badness 10000) in paragraph at lines 65--65
 
  []
 
-LaTeX Font Info:    Try loading font information for OT1+lmr on input line 76.
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 75.
 (/usr/local/texlive/2011/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OML+lmm on input line 76.
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 75.
 
 (/usr/local/texlive/2011/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 76.
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 75.
 
 
 (/usr/local/texlive/2011/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMX+lmex on input line 76.
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 75.
 
 
 (/usr/local/texlive/2011/texmf-dist/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 76.
+(Font)              <10.95> on input line 75.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 76.
+(Font)              <8> on input line 75.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 76.
+(Font)              <6> on input line 75.
 
-Underfull \hbox (badness 1484) in paragraph at lines 76--76
+
+LaTeX Font Warning: Font shape `T1/lmss/m/sc' in size <10.95> not available
+(Font)              Font shape `T1/lmr/m/sc' tried instead on input line 75.
+
+Package microtype Info: Character `029' is missing
+(microtype)             in font `T1/lmr/m/sc/10.95'.
+(microtype)             Ignoring protrusion settings for this character.
+
+Underfull \hbox (badness 1484) in paragraph at lines 97--97
 []\T1/lmss/bx/n/10.95 Computer En-gi-neer-ing\T1/lmss/m/n/10.95 (+20) , \T1/lms
 s/m/sl/10.95 UNICAMP - Uni-ver-si-dade Es-tad-ual de Campinas\T1/lmss/m/n/10.95
  (+20) ,
  []
 
-
-LaTeX Font Warning: Font shape `T1/lmss/m/sc' in size <10.95> not available
-(Font)              Font shape `T1/lmr/m/sc' tried instead on input line 96.
-
-Package microtype Info: Character `029' is missing
-(microtype)             in font `T1/lmr/m/sc/10.95'.
-(microtype)             Ignoring protrusion settings for this character.
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 116.
 (/usr/local/texlive/2011/texmf-dist/tex/latex/microtype/mt-mvs.cfg
 File: mt-mvs.cfg 2006/07/05 v1.1 microtype config. file: Marvosym Euro (RS)
 )
-LaTeX Font Info:    Try loading font information for OMS+lmr on input line 118.
+LaTeX Font Info:    Try loading font information for OMS+lmr on input line 131.
 
 
 (/usr/local/texlive/2011/texmf-dist/tex/latex/lm/omslmr.fd
 File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `OMS/lmr/m/sl' in size <10.95> not available
-(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 118.
+(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 131.
 
 
 Package Fancyhdr Warning: \footskip is too small (30.0pt): 
@@ -562,9 +565,7 @@ Package Fancyhdr Warning: \footskip is too small (30.0pt):
 
 {/usr/local/texlive/2011/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./pictu
 res/picture.jpg>]
-LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 129.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 200.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 201.
 
 
 Package Fancyhdr Warning: \footskip is too small (30.0pt): 
@@ -573,36 +574,35 @@ Package Fancyhdr Warning: \footskip is too small (30.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [2]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 200.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 201.
  (./Raul Kist.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 200.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 200.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 201.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 201.
 Package rerunfilecheck Info: File `"Raul Kist".out' has not changed.
-(rerunfilecheck)             Checksum: 1EE66D77209587FA45159649CCC261D2;820.
+(rerunfilecheck)             Checksum: 40AFD10BD3B7BF370124054533834A8E;699.
  ) 
 Here is how much of TeX's memory you used:
- 9782 strings out of 493633
- 144037 string characters out of 3143378
- 275968 words of memory out of 3000000
- 12878 multiletter control sequences out of 15000+200000
- 64866 words of font info for 68 fonts, out of 3000000 for 9000
+ 9775 strings out of 493633
+ 143950 string characters out of 3143378
+ 274968 words of memory out of 3000000
+ 12875 multiletter control sequences out of 15000+200000
+ 61994 words of font info for 66 fonts, out of 3000000 for 9000
  833 hyphenation exceptions out of 8191
  46i,12n,67p,769b,485s stack positions out of 5000i,500n,10000p,200000b,50000s
-{/usr/local/texlive/2011/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/
-texlive/2011/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}</usr/local/texlive/20
+{/usr/local/texlive/2011/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/lo
+cal/texlive/2011/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</usr/local/texlive/20
 11/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb></usr/local/texlive/2011/texmf-
 dist/fonts/type1/public/lm/lmss10.pfb></usr/local/texlive/2011/texmf-dist/fonts
 /type1/public/lm/lmss12.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/pub
 lic/lm/lmss17.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/lm/lms
-s8.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb><
-/usr/local/texlive/2011/texmf-dist/fonts/type1/public/lm/lmsso10.pfb></usr/loca
-l/texlive/2011/texmf-dist/fonts/type1/public/lm/lmsso17.pfb></usr/local/texlive
-/2011/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/local/texlive/2011/texm
-f-dist/fonts/type1/public/marvosym/marvosym.pfb>
-Output written on "Raul Kist.pdf" (2 pages, 186802 bytes).
+sbx10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/lm/lmsso10.pfb
+></usr/local/texlive/2011/texmf-dist/fonts/type1/public/lm/lmsso17.pfb></usr/lo
+cal/texlive/2011/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/local/texliv
+e/2011/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb>
+Output written on "Raul Kist.pdf" (2 pages, 176105 bytes).
 PDF statistics:
- 106 PDF objects out of 1000 (max. 8388607)
- 85 compressed objects within 1 object stream
- 11 named destinations out of 1000 (max. 500000)
- 23110 words of extra memory for PDF output out of 24883 (max. 10000000)
+ 98 PDF objects out of 1000 (max. 8388607)
+ 78 compressed objects within 1 object stream
+ 10 named destinations out of 1000 (max. 500000)
+ 22590 words of extra memory for PDF output out of 24883 (max. 10000000)
 
