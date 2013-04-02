@@ -1,4 +1,3 @@
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % "ModernCV" CV and Cover Letter
 % LaTeX Template
 % Version 1.1 (9/12/12)
@@ -16,7 +15,7 @@
 % This template requires the moderncv.cls and .sty files to be in the same 
 % directory as this .tex file. These files provide the resume style and themes 
 % used for structuring the document.
-%
+
 
 
 
@@ -28,16 +27,16 @@
 \hyphenation{UNICAMP}
 \hyphenation{Pi-ras-su-nun-ga}
 
-\documentclass[11pt,a4paper,sans]{moderncv} % Font sizes: 10, 11, or 12; paper sizes: a4paper, letterpaper, a5paper, legalpaper, executivepaper or landscape; font families: sans or roman
+\documentclass[11pt, a4paper, sans]{moderncv} % Font sizes: 10, 11, or 12; paper sizes: a4paper, letterpaper, a5paper, legalpaper, executivepaper or landscape; font families: sans or roman
 
-\moderncvstyle{casual} % CV theme - options include: 'casual' (default), 'classic', 'oldstyle' and 'banking'
+\moderncvstyle{classic} % CV theme - options include: 'casual' (default), 'classic', 'oldstyle' and 'banking'
 \moderncvcolor{blue} % CV color - options include: 'blue' (default), 'orange', 'green', 'red', 'purple', 'grey' and 'black'
 
 %\usepackage{lipsum} % Used for inserting dummy 'Lorem ipsum' text into the template
 
 \usepackage[scale=0.75]{geometry} % Reduce document margins
 %\setlength{\hintscolumnwidth}{3cm} % Uncomment to change the width of the dates column
-%\setlength{\makecvtitlenamewidth}{10cm} % For the 'classic' style, uncomment to adjust the width of the space allocated to your name
+\setlength{\makecvtitlenamewidth}{10cm} % For the 'classic' style, uncomment to adjust the width of the space allocated to your name
 
 
 
@@ -72,15 +71,15 @@
 
 \begin{document}
 
-\makecvtitle % Print the CV title
+\makecvtitle % Prints the CV title
 
 
 
 
 
-\section{Profile}
+%\section{Profile}
 
-\cvitem{}{A versatile, keen and creative, 27 years old Brazilian Software Engineer looking for an international career in the technical area.}
+%\cvitem{}{A versatile, keen and creative, 27 years old Brazilian Software Engineer %looking for an international career in the technical area.}
 
 
 
@@ -96,11 +95,11 @@ Design and development of new products and technologies of software for Oil \& G
 \item Comprehensive desktop programming experience:
 \begin{itemize}
 \item Fortran, C, C++ (CLI and native), C\# and Java experience;
-\item Integrating 40 years old legacy code to .NET applications;
+\item Integrated 40 years old legacy code to .NET applications;
 \end{itemize}
 \item Attended international teams, dealing with people from different cultural backgrounds.
 \item Products with high performance and high quality demand for Seismic Processing, Rock Physics Modeling and Data Analysis.
-\item Usability Champion role.
+\item 'Usability Champion' role in the last project.
 %\item Engineering and Research on domain practices and workflows
 \end{itemize}
 }
@@ -120,14 +119,18 @@ Conceived and implemented server applications to coordinate load balancing on di
 
 \subsection{Miscellaneous}
 
+%\cventry{2011--2011}{Basic Math Teacher}{SEED}{}{}
+%{
+%Taught basic math to poor kids in public school in Rio de Janeiro.
+%}
+
+
+
 \cventry{2007--2009}{Microsoft Student Partner}{}{}{}
 {
 Former Microsoft 'Student Ambassador' position.\\
 Academic lectures and articles about Microsoft related technology to undergraduate students.
 }
-
-
-%SEED???
 
 
 
@@ -140,9 +143,13 @@ Academic lectures and articles about Microsoft related technology to undergradua
 
 \section{Education}
 
-\cventry{2006--2011}{Computer Engineering}{UNICAMP - Universidade Estadual de Campinas}{Campinas - Brazil}{}{Modality AA -- Computer Systems}  
+\cventry{2006--2011}{Computer Engineering}{UNICAMP - Universidade Estadual de Campinas}{Campinas - Brazil}{}
+{
+Modality AA -- Computer Systems
+}  
 
-\cventry{2004--2006}{Pilot Officers Graduation Course (Curso de Forma\c{c}\~ao de Oficiais Aviadores)}{Brazilian Air Force Academy (Academia da For\c{c}a A\'erea)}{Pirassununga - Brazil}{\textit{Unfinished}}
+\cventry{2004--2006}{Pilot Officers Graduation Course (Curso de Forma\c{c}\~ao de Oficiais Aviadores)}{Brazilian Air Force Academy (Academia da For\c{c}a A\'erea)}{Pirassununga - Brazil}
+{\textit{Unfinished}}
 {
 Ranked as Air Force Cadet. \\
 Course curriculum covers the areas of Military Aviation and Business Administration. 
@@ -162,7 +169,8 @@ Course curriculum covers the areas of Military Aviation and Business Administrat
 \section{Publications}
 \cventry{2010}{ViCOS - Virtual Cluster Orchestration System}{CLCAR - Latin American Conference on High Performance Computing}{ISBN 978-85-7727-252-5}{}
 {
-An environment aware load balancing virtual cluster system that coordinates virtual machines that offer some service (HPC, SOA, etc) in a failover cluster, making a multipurpose environment which the main goal is to reduce the wasting of the infrastructure's computational potential. ViCOS applies cloud computing concepts to high performance compute to ensure a flexible, economic and reliable environment for performing tasks demanding high performance.
+An environment aware load balancing virtual cluster system that coordinates virtual machines that offer some service (HPC, SOA, etc) in a failover cluster, making a multipurpose environment which the main goal is to reduce the wasting of the infrastructure's computational potential. 
+%ViCOS applies cloud computing concepts to high performance compute to ensure a flexible, economic and reliable environment for performing tasks demanding high performance.\\
 %In order to do that, it uses the available idle machines of the environment, occupying them with virtual machines on demand and adapting to resources changes: if a host is to be used for other purposes, the system migrates the VMs to another host, so the task isn't interrupted and can continue elsewhere.\\
 %Therefore, the physical resources are managed without work load interruption, and the system fits itself to the environment, automatically expanding and contracting based on resource demand, focusing in both performance increase and energy savings.
 }
@@ -200,17 +208,18 @@ An environment aware load balancing virtual cluster system that coordinates virt
 \cvitemwithcomment{}{C\#}{5 years}
 \cvitemwithcomment{}{C/C++}{5 years}
 \cvitemwithcomment{}{Python}{2 years}
-\cvitemwithcomment{}{Java}{1 year}
+%\cvitemwithcomment{}{Java}{1 year}
 
 \subsection{Plattforms (admin and user)}
 \cvitemwithcomment{}{Windows Server}{2003 R2, 2008, 2008 R2, Core}
 \cvitemwithcomment{}{Windows}{XP, Vista, 7}
 \cvitemwithcomment{}{Linux}{Several flavors}
-\cvitemwithcomment{}{Mac OS}{X}
+%\cvitemwithcomment{}{Mac OS X}{Lion}
 
 %\subsection{Aplications}
 %\cvitemwithcomment{}{Visual Studio}{}
-
+%\cvitemwithcomment{}{Team Foundation Server}{}
+%\cvitemwithcomment{}{Intel Parallel Studio XE}{}
 
 
 
@@ -222,8 +231,12 @@ An environment aware load balancing virtual cluster system that coordinates virt
 \section{General Courses}
 \cvitemwithcomment {2012}{Lean Management Workshop} {Industrial Logic}
 \cvitemwithcomment{2012}{Applying Advanced Object Design with Patterns}{Craig Larman}
+%\cvitemwithcomment {2011}{Basic Oil Extraction Techniques} {NeXT}
+%\cvitemwithcomment {2010}{Brazilian Computer Olympics Monitor} {UNICAMP}
 \cvitemwithcomment {2010}{Smart Grid Research \& Gateway Development} {IBM/Tivoli}
 \cvitemwithcomment {2009}{Network Performance Reporting} {IBM/Tivoli}
+%\cvitemwithcomment {2009}{Lego Robotics Workshop} {Lego}
+
 %other stuff in petrophysics
 %other stuff in general
 
@@ -234,38 +247,17 @@ An environment aware load balancing virtual cluster system that coordinates virt
 
 
 
-\section{Other Interests}
+%\section{Other Interests}
 
-\renewcommand{\listitemsymbol}{-~} % Changes the symbol used for lists
+%\renewcommand{\listitemsymbol}{-~} % Changes the symbol used for lists
 
-\cvlistdoubleitem{Chess}{Martial Arts}
-\cvlistdoubleitem{Music}{}
-
-
+%\cvlistdoubleitem{Chess}{Martial Arts}
+%\cvlistdoubleitem{Music}{}
 
 
 
 
 
 
-
-
-% To remove the cover letter, comment out this entire block
-
-%\clearpage
-
-%\recipient{HR Departmnet}{Corporation\\123 Pleasant Lane\\12345 City, State} % Letter recipient
-%\date{\today} % Letter date
-%\opening{Dear Sir or Madam,} % Opening greeting
-%\closing{Sincerely yours,} % Closing phrase
-%\enclosure[Attached]{curriculum vit\ae{}} % List of enclosed documents
-
-%\makelettertitle % Print letter title
-
-%\lipsum[1-3] % Dummy text
-
-%\makeletterclosing % Print letter signature
-
-%----------------------------------------------------------------------------------------
 
 \end{document}
