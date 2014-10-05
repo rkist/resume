@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.10.4)  5 OCT 2014 18:13
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.10.4)  5 OCT 2014 19:09
 entering extended mode
 **Raul*Kist.tex
 ("C:\Users\Raul\Documents\GitHub\resume\Raul Kist.tex"
@@ -518,11 +518,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 76--76
  []
 
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 98.
+(Font)              <10.95> on input line 84.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 98.
+(Font)              <8> on input line 84.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 98.
+(Font)              <6> on input line 84.
 
 LaTeX Font Warning: Font shape `T1/lmss/m/sc' in size <10.95> not available
 (Font)              Font shape `T1/lmr/m/sc' tried instead on input line 98.
@@ -546,13 +546,13 @@ Package rerunfilecheck Info: File `Raul*Kist.out' has not changed.
 (rerunfilecheck)             Checksum: <no file>.
  ) 
 Here is how much of TeX's memory you used:
- 11896 strings out of 493921
- 173928 string characters out of 3144879
- 292786 words of memory out of 3000000
- 14982 multiletter control sequences out of 15000+200000
+ 11898 strings out of 493921
+ 173952 string characters out of 3144879
+ 292764 words of memory out of 3000000
+ 14983 multiletter control sequences out of 15000+200000
  73358 words of font info for 80 fonts, out of 3000000 for 9000
  844 hyphenation exceptions out of 8191
- 42i,12n,67p,775b,336s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 42i,13n,67p,775b,336s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}<C:/Program F
 iles (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmcsc10.pfb><C:/Program Files (x86)
 /MiKTeX 2.9/fonts/type1/public/lm/lmss10.pfb><C:/Program Files (x86)/MiKTeX 2.9
@@ -561,9 +561,9 @@ iles (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmcsc10.pfb><C:/Program Files (x86)
 /lmssbx10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmsso10.
 pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmsso17.pfb><C:/Pr
 ogram Files (x86)/MiKTeX 2.9/fonts/type1/public/marvosym/marvosym.pfb>
-Output written on "Raul Kist.pdf" (2 pages, 193723 bytes).
+Output written on "Raul Kist.pdf" (2 pages, 194300 bytes).
 PDF statistics:
- 92 PDF objects out of 1000 (max. 8388607)
- 12 named destinations out of 1000 (max. 500000)
- 23625 words of extra memory for PDF output out of 24883 (max. 10000000)
+ 97 PDF objects out of 1000 (max. 8388607)
+ 13 named destinations out of 1000 (max. 500000)
+ 23633 words of extra memory for PDF output out of 24883 (max. 10000000)
 
