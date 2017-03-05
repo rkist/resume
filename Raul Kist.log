@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.10.4)  27 FEB 2017 00:45
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.10.4)  5 MAR 2017 22:24
 entering extended mode
 **Raul*Kist.tex
 ("E:\kist\Documents\GitHub\resume\Raul Kist.tex"
@@ -546,13 +546,13 @@ Package rerunfilecheck Info: File `Raul*Kist.out' has not changed.
 (rerunfilecheck)             Checksum: <no file>.
  ) 
 Here is how much of TeX's memory you used:
- 11892 strings out of 493921
- 173758 string characters out of 3144879
+ 11894 strings out of 493921
+ 173780 string characters out of 3144879
  291715 words of memory out of 3000000
  14981 multiletter control sequences out of 15000+200000
- 73257 words of font info for 79 fonts, out of 3000000 for 9000
+ 73358 words of font info for 80 fonts, out of 3000000 for 9000
  844 hyphenation exceptions out of 8191
- 42i,12n,67p,775b,336s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 42i,13n,67p,775b,336s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}<C:/Program F
 iles (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmcsc10.pfb><C:/Program Files (x86)
 /MiKTeX 2.9/fonts/type1/public/lm/lmss10.pfb><C:/Program Files (x86)/MiKTeX 2.9
@@ -561,7 +561,7 @@ iles (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmcsc10.pfb><C:/Program Files (x86)
 /lmssbx10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmsso10.
 pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmsso17.pfb><C:/Pr
 ogram Files (x86)/MiKTeX 2.9/fonts/type1/public/marvosym/marvosym.pfb>
-Output written on "Raul Kist.pdf" (2 pages, 192195 bytes).
+Output written on "Raul Kist.pdf" (2 pages, 192292 bytes).
 PDF statistics:
  88 PDF objects out of 1000 (max. 8388607)
  11 named destinations out of 1000 (max. 500000)
