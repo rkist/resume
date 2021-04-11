@@ -1,9 +1,9 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2021.4.9)  11 APR 2021 11:13
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=latex 2021.4.9)  10 APR 2021 13:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**"Raul Kist.tex"
-(./Raul Kist.tex
+**cv_7.tex
+(./cv_7.tex
 LaTeX2e <2020-10-01> patch level 4
 L3 programming layer <2021-02-18> (./moderncv.cls
 Document Class: moderncv 2012/10/31 v1.2.0 modern curriculum vitae and letter d
@@ -13,7 +13,7 @@ File: size11.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
 )
 (/usr/local/texlive/2021/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count175
+\etb@tempcnta=\count179
 )
 (/usr/local/texlive/2021/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
@@ -24,10 +24,10 @@ Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
 (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
-Package xcolor Info: Driver file: xetex.def on input line 225.
+Package xcolor Info: Driver file: dvips.def on input line 225.
 
-(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-def/xetex.def
-File: xetex.def 2021/03/18 v5.0k Graphics/color driver for xetex
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-def/dvips.def
+File: dvips.def 2017/06/20 v3.1d Graphics/color driver for dvips
 )
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
 Package xcolor Info: Model `RGB' extended on input line 1364.
@@ -40,12 +40,7 @@ Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 )
 (/usr/local/texlive/2021/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2020/08/10 v2.0s Standard LaTeX package
-LaTeX Font Info:    Trying to load font information for T1+lmr on input line 11
-2.
-
-(/usr/local/texlive/2021/texmf-dist/tex/latex/lm/t1lmr.fd
-File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-))
+)
 (/usr/local/texlive/2021/texmf-dist/tex/latex/lm/lmodern.sty
 Package: lmodern 2015/05/01 v1.6.1 Latin Modern Fonts
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
@@ -101,7 +96,7 @@ Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: xetex.def on input line 105.
+Package graphics Info: Driver file: dvips.def on input line 105.
 )
 \Gin@req@height=\dimen138
 \Gin@req@width=\dimen139
@@ -121,15 +116,15 @@ rs
 )
 (/usr/local/texlive/2021/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count176
-\calc@Bcount=\count177
+\calc@Acount=\count180
+\calc@Bcount=\count181
 \calc@Adimen=\dimen140
 \calc@Bdimen=\dimen141
 \calc@Askip=\skip56
 \calc@Bskip=\skip57
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count178
+\calc@Ccount=\count182
 \calc@Cskip=\skip58
 )
 (/usr/local/texlive/2021/texmf-dist/tex/latex/xargs/xargs.sty
@@ -143,25 +138,28 @@ Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
 \XKV@toks=\toks16
 \XKV@tempa@toks=\toks17
 )
-\XKV@depth=\count179
+\XKV@depth=\count183
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
-\xargs@max=\count180
+\xargs@max=\count184
 \xargs@toksa=\toks18
 \xargs@toksb=\toks19
 )
 (/usr/local/texlive/2021/texmf-dist/tex/latex/microtype/microtype.sty
 Package: microtype 2021/03/14 v2.8c Micro-typographical refinements (RS)
 \MT@toks=\toks20
-\MT@count=\count181
+\MT@count=\count185
 LaTeX Info: Redefining \textls on input line 790.
 \MT@outer@kern=\dimen142
 LaTeX Info: Redefining \textmicrotypecontext on input line 1374.
-\MT@listname@count=\count182
+\MT@listname@count=\count186
 
-(/usr/local/texlive/2021/texmf-dist/tex/latex/microtype/microtype-xetex.def
-File: microtype-xetex.def 2021/03/14 v2.8c Definitions specific to xetex (RS)
-LaTeX Info: Redefining \lsstyle on input line 254.
+(/usr/local/texlive/2021/texmf-dist/tex/latex/microtype/microtype-pdftex.def
+File: microtype-pdftex.def 2021/03/14 v2.8c Definitions specific to pdftex (RS)
+
+LaTeX Info: Redefining \lsstyle on input line 915.
+LaTeX Info: Redefining \lslig on input line 915.
+\MT@outer@space=\skip59
 )
 Package microtype Info: Loading configuration file microtype.cfg.
 
@@ -175,33 +173,64 @@ tter compatibility patches
 (/usr/local/texlive/2021/texmf-dist/tex/latex/bigfoot/suffix.sty
 Package: suffix 2006/07/15 1.5a Variant command support
 )
-\bibindent=\skip59
+\bibindent=\skip60
 
-(./tweaklist.sty)) (./moderncvstyleclassic.sty
+(./tweaklist.sty)) (./moderncvstylecasual.sty
+Package: moderncvstylecasual 2012/10/31 v1.2.0 modern curriculum vitae and lett
+er style scheme: casual
+ (./moderncvstyleclassic.sty
 Package: moderncvstyleclassic 2012/10/31 v1.2.0 modern curriculum vitae and let
 ter style scheme: classic
-\quotewidth=\skip60
-\hintscolumnwidth=\skip61
-\separatorcolumnwidth=\skip62
-\maincolumnwidth=\skip63
-\doubleitemmaincolumnwidth=\skip64
-\listitemsymbolwidth=\skip65
+\quotewidth=\skip61
+\hintscolumnwidth=\skip62
+\separatorcolumnwidth=\skip63
+\maincolumnwidth=\skip64
+\doubleitemmaincolumnwidth=\skip65
+\listitemsymbolwidth=\skip66
 LaTeX Font Info:    Trying to load font information for U+mvs on input line 78.
 
 
 (/usr/local/texlive/2021/texmf-dist/tex/latex/marvosym/umvs.fd)
-\listitemmaincolumnwidth=\skip66
-\listdoubleitemmaincolumnwidth=\skip67
-\makecvtitlenamewidth=\skip68
-\baseletterheight=\skip69
+\listitemmaincolumnwidth=\skip67
+\listdoubleitemmaincolumnwidth=\skip68
+\makecvtitlenamewidth=\skip69
+\baseletterheight=\skip70
 \cvitemwithcommentmainbox=\box47
-\cvitemwithcommentmainlength=\skip70
-\cvitemwithcommentcommentlength=\skip71
+\cvitemwithcommentmainlength=\skip71
+\cvitemwithcommentcommentlength=\skip72
+)
+\footerbox=\box48
+\footertempbox=\box49
+\footerwidth=\skip73
+\footerboxwidth=\skip74
 )
 (./moderncvcolorblue.sty
 Package: moderncvcolorblue 2012/10/31 v1.2.0 modern curriculum vitae and letter
  color scheme: blue
 )
+(/usr/local/texlive/2021/texmf-dist/tex/latex/lipsum/lipsum.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2021-02-18 L3 programming layer (loader) 
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-dvips.def
+File: l3backend-dvips.def 2021-03-18 L3 backend support: dvips
+\l__pdf_internal_box=\box50
+\g__pdf_backend_object_int=\count187
+\l__pdf_backend_content_box=\box51
+\l__pdf_backend_model_box=\box52
+\g__pdf_backend_annotation_int=\count188
+\g__pdf_backend_link_int=\count189
+\g__pdf_backend_link_sf_int=\count190
+))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/l3packages/xparse/xparse-2020-10-
+01.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/l3packages/xparse/xparse-generic.
+tex)))
+Package: lipsum 2021-03-03 v2.3 150 paragraphs of Lorem Ipsum dummy text
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex
+File: lipsum.ltd.tex 2021-03-03 v2.3 The Lorem ipsum dummy text
+))
 (/usr/local/texlive/2021/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
 
@@ -211,9 +240,9 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 (/usr/local/texlive/2021/texmf-dist/tex/generic/iftex/iftex.sty
 Package: iftex 2020/03/06 v1.0d TeX engine tests
 ))
-\Gm@cnth=\count183
-\Gm@cntv=\count184
-\c@Gm@tempcnt=\count185
+\Gm@cnth=\count191
+\Gm@cntv=\count192
+\c@Gm@tempcnt=\count193
 \Gm@bindingoffset=\dimen143
 \Gm@wd@mp=\dimen144
 \Gm@odd@mp=\dimen145
@@ -239,7 +268,7 @@ Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
-Package pdftexcmds Info: \pdfdraftmode not found.
+Package pdftexcmds Info: \pdfdraftmode is ignored in DVI mode.
 )
 (/usr/local/texlive/2021/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
 Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
@@ -263,11 +292,13 @@ Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
 )
 \@linkdim=\dimen151
-\Hy@linkcounter=\count186
-\Hy@pagecounter=\count187
+\Hy@linkcounter=\count194
+\Hy@pagecounter=\count195
 
 (/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2021-02-27 v7.00k Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
 )
 (/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/hyperref-langpatches.def
 File: hyperref-langpatches.def 2021-02-27 v7.00k Hyperref: patches for babel la
@@ -278,10 +309,12 @@ Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 (/usr/local/texlive/2021/texmf-dist/tex/generic/etexcmds/etexcmds.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
-\Hy@SavedSpaceFactor=\count188
+\Hy@SavedSpaceFactor=\count196
 
 (/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/puenc.def
 File: puenc.def 2021-02-27 v7.00k Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
 )
 Package hyperref Info: Option `unicode' set `true' on input line 4073.
 Package hyperref Info: Hyper figures OFF on input line 4192.
@@ -291,7 +324,7 @@ Package hyperref Info: Plain pages OFF on input line 4207.
 Package hyperref Info: Backreferencing OFF on input line 4212.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4445.
-\c@Hy@tempcnt=\count189
+\c@Hy@tempcnt=\count197
 LaTeX Info: Redefining \url on input line 4804.
 \XeTeXLinkMargin=\dimen152
 
@@ -302,7 +335,7 @@ Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count190
+\Fld@menulength=\count198
 \Field@Width=\dimen153
 \Fld@charsize=\dimen154
 Package hyperref Info: Hyper figures OFF on input line 6075.
@@ -320,24 +353,24 @@ Package: atbegshi-ltx 2020/08/17 v1.0a Emulation of the original atbegshi packa
 ge
 with kernel methods
 )
-\Hy@abspage=\count191
-\c@Item=\count192
-\c@Hfootnote=\count193
+\Hy@abspage=\count199
+\c@Item=\count266
+\c@Hfootnote=\count267
 )
-Package hyperref Info: Driver (autodetected): hxetex.
+Package hyperref Info: Driver (default): hdvips.
 
-(/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/hxetex.def
-File: hxetex.def 2021-02-27 v7.00k Hyperref driver for XeTeX
+(/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/hdvips.def
+File: hdvips.def 2021-02-27 v7.00k Hyperref driver for dvips
 
-(/usr/local/texlive/2021/texmf-dist/tex/generic/stringenc/stringenc.sty
-Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
-)
-)
-\pdfm@box=\box48
-\c@Hy@AnnotLevel=\count194
-\HyField@AnnotCount=\count195
-\Fld@listcount=\count196
-\c@bookmark@seq@number=\count197
+(/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/pdfmark.def
+File: pdfmark.def 2021-02-27 v7.00k Hyperref definitions for pdfmark specials
+\pdf@docset=\toks22
+\pdf@box=\box53
+\pdf@toks=\toks23
+\pdf@defaulttoks=\toks24
+\HyField@AnnotCount=\count268
+\Fld@listcount=\count269
+\c@bookmark@seq@number=\count270
 
 (/usr/local/texlive/2021/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
 Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
@@ -352,71 +385,58 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 86.
 )
-\Hy@SectionHShift=\skip72
-)
-Package hyperref Info: Option `breaklinks' set `true' on input line 74.
-Package hyperref Info: Option `bookmarksopen' set `true' on input line 74.
- (/usr/local/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
-File: l3backend-xetex.def 2021-03-18 L3 backend support: XeTeX
-(|extractbb --version)
-\c__kernel_sys_dvipdfmx_version_int=\count198
-\l__color_backend_stack_int=\count199
-\g__color_backend_stack_int=\count266
-\g__graphics_track_int=\count267
-\l__pdf_internal_box=\box49
-\g__pdf_backend_object_int=\count268
-\g__pdf_backend_annotation_int=\count269
-\g__pdf_backend_link_int=\count270
-) (./Raul Kist.aux)
-\openout1 = `"Raul Kist.aux"'.
+\Hy@SectionHShift=\skip75
+))
+Package hyperref Info: Option `breaklinks' set `true' on input line 58.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 58.
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 58
+.
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/lm/t1lmr.fd
+File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+) (./cv_7.aux)
+\openout1 = `cv_7.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 74.
-LaTeX Font Info:    ... okay on input line 74.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 74.
-LaTeX Font Info:    ... okay on input line 74.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 74.
-LaTeX Font Info:    ... okay on input line 74.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 74.
-LaTeX Font Info:    ... okay on input line 74.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 74.
-LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 7
-4.
-
-(/usr/local/texlive/2021/texmf-dist/tex/latex/base/ts1cmr.fd
-File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
-)
-LaTeX Font Info:    ... okay on input line 74.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 74.
-LaTeX Font Info:    ... okay on input line 74.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 74.
-LaTeX Font Info:    ... okay on input line 74.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 74.
-LaTeX Font Info:    ... okay on input line 74.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 74.
-LaTeX Font Info:    ... okay on input line 74.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 74.
-LaTeX Font Info:    ... okay on input line 74.
-LaTeX Font Info:    Trying to load font information for T1+lmss on input line 7
-4.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Trying to load font information for T1+lmss on input line 5
+8.
 
 (/usr/local/texlive/2021/texmf-dist/tex/latex/lm/t1lmss.fd
 File: t1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Info: Redefining \microtypecontext on input line 74.
+LaTeX Info: Redefining \microtypecontext on input line 58.
+Package microtype Info: Generating DVI output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: No font expansion.
 Package microtype Info: No adjustment of tracking.
-Package microtype Info: No adjustment of spacing.
-Package microtype Info: No adjustment of kerning.
+Package microtype Info: No adjustment of interword spacing.
+Package microtype Info: No adjustment of character kerning.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `lmss' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 
 *geometry* driver: auto-detecting
-*geometry* detected driver: xetex
+*geometry* detected driver: dvips
 *geometry* verbose mode - [ preamble ] result:
-* driver: xetex
+* driver: dvips
 * paper: a4paper
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
@@ -447,7 +467,7 @@ Package microtype Info: Loading generic protrusion settings for font family
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring OFF on input line 74.
+Package hyperref Info: Link coloring OFF on input line 58.
 (/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
 
@@ -460,20 +480,30 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count271
 )
-LaTeX Info: Redefining \ref on input line 74.
-LaTeX Info: Redefining \pageref on input line 74.
-LaTeX Info: Redefining \nameref on input line 74.
- (./Raul Kist.out) (./Raul Kist.out)
+LaTeX Info: Redefining \ref on input line 58.
+LaTeX Info: Redefining \pageref on input line 58.
+LaTeX Info: Redefining \nameref on input line 58.
 \@outlinefile=\write3
-\openout3 = `"Raul Kist.out"'.
+\openout3 = `cv_7.out'.
 
-\pagenumberwidth=\skip73
-LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 74.
-\makecvtitledetailsbox=\box50
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 7
-6.
 
+
+Package hyperref Warning: Rerun to get /PageLabels entry.
+
+\makecvtitlepicturebox=\box54
+
+! LaTeX Error: File `pictures/picture' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.60 \makecvtitle
+                  % Print the CV title
+? 
+\makecvtitlepicturewidth=\skip76
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 6
+0.
 (/usr/local/texlive/2021/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
@@ -481,107 +511,116 @@ File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 7
-6.
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 6
+0.
 
 (/usr/local/texlive/2021/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
-76.
+60.
 
 (/usr/local/texlive/2021/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
-76.
+60.
 
 (/usr/local/texlive/2021/texmf-dist/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 76.
+(Font)              <10.95> on input line 60.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 76.
+(Font)              <8> on input line 60.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 76.
+(Font)              <6> on input line 60.
 
-(/usr/local/texlive/2021/texmf-dist/tex/latex/microtype/mt-mvs.cfg
-File: mt-mvs.cfg 2006/07/05 v1.1 microtype config. file: Marvosym Euro (RS)
-)
-\makecvtitlepicturebox=\box51
-\makecvtitledetailswidth=\skip74
-\makecvtitlepicturewidth=\skip75
-
-Underfull \hbox (badness 10000) in paragraph at lines 76--76
+Underfull \hbox (badness 10000) in paragraph at lines 60--60
 
  []
 
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 89.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 89.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 89.
-
-LaTeX Font Warning: Font shape `T1/lmss/m/scsl' undefined
-(Font)              using `T1/lmss/m/sc' instead on input line 89.
-
-
-LaTeX Font Warning: Font shape `T1/lmss/m/sc' in size <10.95> not available
-(Font)              Font shape `T1/lmr/m/sc' tried instead on input line 89.
-
-Package microtype Info: Character `029' is missing
-(microtype)             in font `T1/lmr/m/sc/10.95'.
-(microtype)             Ignoring protrusion settings for this character.
-
-LaTeX Font Warning: Font shape `T1/lmss/m/scsl' undefined
-(Font)              using `T1/lmss/m/sc' instead on input line 93.
-
-
-LaTeX Font Warning: Font shape `T1/lmss/m/scsl' undefined
-(Font)              using `T1/lmss/m/sc' instead on input line 97.
-
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10.95> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 68.
 
 LaTeX Font Warning: Font shape `T1/lmss/m/scsl' undefined
 (Font)              using `T1/lmss/m/sc' instead on input line 101.
 
 
+LaTeX Font Warning: Font shape `T1/lmss/m/sc' in size <10.95> not available
+(Font)              Font shape `T1/lmr/m/sc' tried instead on input line 101.
+
+Package microtype Info: Character `029' is missing
+(microtype)             in font `T1/lmr/m/sc/10.95'.
+(microtype)             Ignoring protrusion settings for this character.
+
+Underfull \hbox (badness 10000) in paragraph at lines 101--101
+
+ []
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/microtype/mt-mvs.cfg
+File: mt-mvs.cfg 2006/07/05 v1.1 microtype config. file: Marvosym Euro (RS)
+)
+
+LaTeX Font Warning: Font shape `T1/lmss/m/sc' in size <10> not available
+(Font)              Font shape `T1/lmr/m/sc' tried instead on input line 101.
+
+Package microtype Info: Character `029' is missing
+(microtype)             in font `T1/lmr/m/sc/10'.
+(microtype)             Ignoring protrusion settings for this character.
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 1
+01.
+(/usr/local/texlive/2021/texmf-dist/tex/latex/lm/ts1lmr.fd
+File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+
 LaTeX Font Warning: Font shape `T1/lmss/m/scsl' undefined
-(Font)              using `T1/lmss/m/sc' instead on input line 108.
+(Font)              using `T1/lmss/m/sc' instead on input line 105.
 
 
-LaTeX Font Warning: Font shape `T1/lmss/m/scsl' undefined
-(Font)              using `T1/lmss/m/sc' instead on input line 112.
-
-
-LaTeX Font Warning: Font shape `T1/lmss/m/scsl' undefined
-(Font)              using `T1/lmss/m/sc' instead on input line 119.
-
-
-LaTeX Font Warning: Font shape `T1/lmss/m/scsl' undefined
-(Font)              using `T1/lmss/m/sc' instead on input line 134.
-
-
-LaTeX Font Warning: Font shape `T1/lmss/m/scsl' undefined
-(Font)              using `T1/lmss/m/sc' instead on input line 144.
+Package fancyhdr Warning: \footskip is too small (30.0pt): 
+(fancyhdr)                Make it at least 54.40001pt, for example:
+(fancyhdr)                \setlength{\footskip}{54.40001pt}.
 
 [1
 
 ]
-LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10.95> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 185.
- [2] [3] (./Raul Kist.aux)
-Package rerunfilecheck Info: File `"Raul Kist".out' has not changed.
-(rerunfilecheck)             Checksum: <no file>.
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 147.
+
+
+Package fancyhdr Warning: \footskip is too small (30.0pt): 
+(fancyhdr)                Make it at least 54.40001pt, for example:
+(fancyhdr)                \setlength{\footskip}{54.40001pt}.
+
+[2]
+
+Package fancyhdr Warning: \footskip is too small (30.0pt): 
+(fancyhdr)                Make it at least 54.40001pt, for example:
+(fancyhdr)                \setlength{\footskip}{54.40001pt}.
+
+[3
+
+] (./cv_7.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
+Package rerunfilecheck Warning: File `cv_7.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `cv_7.out':
+(rerunfilecheck)             Before: <no file>
+(rerunfilecheck)             After:  AB58EF4FAFE2F64DAD8E7FBB65291808;1036.
  ) 
 Here is how much of TeX's memory you used:
- 11199 strings out of 476919
- 171365 string characters out of 5821841
- 522949 words of memory out of 5000000
- 31004 multiletter control sequences out of 15000+600000
- 466345 words of font info for 65 fonts, out of 8000000 for 9000
- 1351 hyphenation exceptions out of 8191
- 83i,13n,88p,350b,354s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 11510 strings out of 478995
+ 178809 string characters out of 5858211
+ 795936 words of memory out of 5000000
+ 28782 multiletter control sequences out of 15000+600000
+ 477535 words of font info for 66 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 83i,13n,88p,420b,520s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on Raul Kist.pdf (3 pages).
+Output written on cv_7.dvi (3 pages, 20800 bytes).
