@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Homebrew) (preloaded format=pdflatex 2024.10.29)  1 JAN 2025 19:36
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Homebrew) (preloaded format=pdflatex 2024.10.29)  1 JAN 2025 19:59
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -447,40 +447,49 @@ Underfull \hbox (badness 10000) in paragraph at lines 77--77
  []
 
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 90.
+(Font)              <10.95> on input line 91.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 90.
+(Font)              <8> on input line 91.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 90.
+(Font)              <6> on input line 91.
 
 LaTeX Font Warning: Font shape `T1/lmss/m/scsl' undefined
-(Font)              using `T1/lmss/m/sc' instead on input line 90.
+(Font)              using `T1/lmss/m/sc' instead on input line 91.
 
 
 LaTeX Font Warning: Font shape `T1/lmss/m/sc' in size <10.95> not available
-(Font)              Font shape `T1/lmr/m/sc' tried instead on input line 90.
+(Font)              Font shape `T1/lmr/m/sc' tried instead on input line 91.
 
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/lmr/m/sc/10.95'.
 (microtype)             Ignoring protrusion settings for this character.
 
-LaTeX Font Warning: Font shape `T1/lmss/m/scsl' undefined
-(Font)              using `T1/lmss/m/sc' instead on input line 97.
+Overfull \hbox (71.9989pt too wide) in paragraph at lines 91--91
+[][] 
+ []
 
 
 LaTeX Font Warning: Font shape `T1/lmss/m/scsl' undefined
-(Font)              using `T1/lmss/m/sc' instead on input line 104.
+(Font)              using `T1/lmss/m/sc' instead on input line 96.
 
 
 LaTeX Font Warning: Font shape `T1/lmss/m/scsl' undefined
-(Font)              using `T1/lmss/m/sc' instead on input line 119.
+(Font)              using `T1/lmss/m/sc' instead on input line 103.
 
 
 LaTeX Font Warning: Font shape `T1/lmss/m/scsl' undefined
-(Font)              using `T1/lmss/m/sc' instead on input line 129.
+(Font)              using `T1/lmss/m/sc' instead on input line 110.
+
+
+LaTeX Font Warning: Font shape `T1/lmss/m/scsl' undefined
+(Font)              using `T1/lmss/m/sc' instead on input line 125.
+
+
+LaTeX Font Warning: Font shape `T1/lmss/m/scsl' undefined
+(Font)              using `T1/lmss/m/sc' instead on input line 135.
 
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10.95> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 170.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 176.
 [1
 
 {/opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/fonts/map/pdftex/updmap/pdftex.map}{/opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}] [2] (./Raul Kist.aux)
@@ -498,9 +507,9 @@ Here is how much of TeX's memory you used:
  34569 multiletter control sequences out of 15000+600000
  632750 words of font info for 128 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
- 77i,12n,83p,1043b,448s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 77i,20n,83p,1043b,448s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb></opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/fonts/type1/public/lm/lmss10.pfb></opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/fonts/type1/public/lm/lmss12.pfb></opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/fonts/type1/public/lm/lmss17.pfb></opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/fonts/type1/public/lm/lmsso10.pfb></opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/fonts/type1/public/lm/lmsso17.pfb></opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb>
-Output written on "Raul Kist.pdf" (2 pages, 188466 bytes).
+Output written on "Raul Kist.pdf" (2 pages, 188784 bytes).
 PDF statistics:
  94 PDF objects out of 1000 (max. 8388607)
  72 compressed objects within 1 object stream
