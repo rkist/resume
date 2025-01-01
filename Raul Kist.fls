@@ -83,6 +83,8 @@ INPUT /opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/tex/latex/amsmath
 INPUT /opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/tex/latex/amsmath/amsbsy.sty
 INPUT /opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/tex/latex/amsmath/amsbsy.sty
 INPUT /opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/tex/latex/amsmath/amsopn.sty
+INPUT /opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/tex/latex/slantsc/slantsc.sty
+INPUT /opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/tex/latex/slantsc/slantsc.sty
 INPUT /opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/tex/latex/base/fix-cm.sty
 INPUT /opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/tex/latex/base/fix-cm.sty
 INPUT /opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/tex/latex/base/ts1enc.def
@@ -229,6 +231,7 @@ INPUT /opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/fonts/tfm/public/
 INPUT /opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/fonts/tfm/public/lm/lmsy6.tfm
 INPUT /opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/fonts/tfm/public/lm/ec-lmssbx10.tfm
 INPUT /opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/fonts/tfm/public/lm/ec-lmsso10.tfm
+INPUT /opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/fonts/tfm/public/lm/ec-lmssbx10.tfm
 INPUT /opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/fonts/tfm/public/lm/ec-lmcsc10.tfm
 INPUT /opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/fonts/tfm/public/lm/ec-lmsso10.tfm
 INPUT /opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/fonts/map/pdftex/updmap/pdftex.map
