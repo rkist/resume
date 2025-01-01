@@ -73,6 +73,11 @@ INPUT /opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/tex/latex/lm/t1lm
 INPUT /opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/tex/latex/lm/t1lmr.fd
 INPUT /opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/tex/latex/lm/t1lmr.fd
 INPUT /opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/fonts/tfm/public/lm/ec-lmr10.tfm
+INPUT /opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/tex/latex/base/fix-cm.sty
+INPUT /opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/tex/latex/base/fix-cm.sty
+INPUT /opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/tex/latex/base/ts1enc.def
+INPUT /opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/tex/latex/base/textcomp.sty
+INPUT /opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/tex/latex/base/textcomp.sty
 INPUT ./moderncvstyleclassic.sty
 INPUT moderncvstyleclassic.sty
 INPUT /opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/tex/latex/marvosym/umvs.fd
@@ -139,16 +144,16 @@ INPUT /opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/tex/latex/rerunfi
 INPUT /opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
 INPUT /opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
 INPUT /opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+INPUT /opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/tex/latex/lm/t1lmss.fd
+INPUT /opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/tex/latex/lm/t1lmss.fd
+INPUT /opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/tex/latex/lm/t1lmss.fd
+INPUT /opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/fonts/tfm/public/lm/ec-lmss10.tfm
 INPUT /opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 INPUT /opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 INPUT ./Raul Kist.aux
 INPUT ./Raul Kist.aux
 INPUT Raul Kist.aux
 OUTPUT Raul Kist.aux
-INPUT /opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/tex/latex/lm/t1lmss.fd
-INPUT /opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/tex/latex/lm/t1lmss.fd
-INPUT /opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/tex/latex/lm/t1lmss.fd
-INPUT /opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/fonts/tfm/public/lm/ec-lmss10.tfm
 INPUT /opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT /opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT /opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
