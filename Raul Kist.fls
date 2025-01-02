@@ -231,16 +231,13 @@ INPUT /opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/fonts/tfm/public/
 INPUT /opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/fonts/tfm/public/lm/lmsy6.tfm
 INPUT /opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/fonts/tfm/public/lm/ec-lmssbx10.tfm
 INPUT /opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/fonts/tfm/public/lm/ec-lmsso10.tfm
-INPUT /opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/fonts/tfm/public/lm/ec-lmssbx10.tfm
-INPUT /opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/fonts/tfm/public/lm/ec-lmcsc10.tfm
-INPUT /opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/fonts/tfm/public/lm/ec-lmsso10.tfm
 INPUT /opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/fonts/map/pdftex/updmap/pdftex.map
 INPUT /opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc
+INPUT /opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/fonts/tfm/public/lm/ec-lmsso10.tfm
 INPUT /opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/fonts/tfm/public/lm/ec-lmss12.tfm
 INPUT Raul Kist.aux
 INPUT ./Raul Kist.out
 INPUT ./Raul Kist.out
-INPUT /opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb
 INPUT /opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/fonts/type1/public/lm/lmss10.pfb
 INPUT /opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/fonts/type1/public/lm/lmss12.pfb
 INPUT /opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/fonts/type1/public/lm/lmss17.pfb
