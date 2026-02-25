@@ -1,7 +1,10 @@
 # macOS
 .DS_Store
 
-# LaTeX build artifacts
+# Build output
+build/
+
+# LaTeX artifacts (if generated outside build)
 *.aux
 *.bbl
 *.bcf
@@ -14,5 +17,6 @@
 *.synctex.gz
 *.toc
 
-# Local generated output
-*.pdf
+# Keep dist PDFs versioned by default
+# (comment next line if you want to commit release PDFs)
+# dist/*.pdf
