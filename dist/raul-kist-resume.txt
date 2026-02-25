@@ -1,0 +1,111 @@
+                                                                            Rua Alves Guimarães 1120
+
+Raul Kist                                                            05410-002 São Paulo - SP - Brazil
+                                                                               H +55 11 959 839 416
+                                                                                 B raulkist@gmail.com
+Résumé                                                                      Í linkedin.com/in/raulkist
+
+
+
+              Experience
+      Grupo Senior Staff Software Engineer, 2020–Present, São Paulo, Brazil.
+QuintoAndar Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+              Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+              Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+              Senior Head of Software Engineer, 2020–Present, São Paulo, Brazil.
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+              Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+              Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+              Head of Software Engineer, 2020–Present, São Paulo, Brazil.
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+              Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+              Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+              Senior Software Engineer Manager, 2020–Present, São Paulo, Brazil.
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+              Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+              Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+              Software Engineer Manager, 2020–Present, São Paulo, Brazil.
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+              Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+              Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+              Senior Software Engineer, 2019–2020, São Paulo, Brazil.
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+   Cegal AS Senior Software Engineer, 2015–2019, Oslo, Norway.
+              Working on software for Oil & Gas exploration and production for Petrel E&P Software
+              Platform using mostly C#.
+              Lead developer on Blueback BluePrint, an automatic and customizable reporting tool for
+              complex exploration data, and other service projects for external clients.
+              Part of the development of Blueback Rocks Velocity, a versatile seismic velocity tool used
+              for processing and analysis; Blueback Toolbox, a best-selling pack with dozens of products
+              encompassing most areas of oil exploration and production; and Blueback Investigator, a
+              powerful cross-domain multi-dimensional data analysis tool.
+ Geoimaging Research Software Engineer, 2013–2015, Rio de Janeiro, Brazil.
+   Solutions Research projects on high end geophysical imaging using high performance computing for
+              Oil & Gas industry.
+              Integration of Full Waveform Inversion (FWI) and Reverse-time Migration (RTM) and other
+              signal processing algorithms using C++ and Fortran with Big Data on Linux HPC clusters.
+
+
+
+
+                                                                                                    1/3
+Schlumberger Software Engineer, 2010–2013, Rio de Janeiro, Brazil.
+                Design and development of new products and technologies of software for Oil & Gas
+                exploration and production, particularly on geophysical tools for Petrel E&P Software
+                Platform. Comprehensive desktop programming experience using Fortran, C, C++ (CLI
+                and native), C# and Java and integrating 40 years old legacy code to .NET applications.
+   Microsoft Software Engineer Intern, 2006–2010, Campinas, Brazil.
+  Innovation Research and development in Distributed Systems with emphasis in Interoperability, High
+      Center Performance Computing, Virtualization and Cloud Computing, using both Microsoft and
+                open source platforms.
+                Conceived and implemented server applications to coordinate load balancing on distributed
+                systems using technologies like C#, Powershell and Windows Server family products as
+                Failover Clustering, HPC Server and Hyper-V.
+
+                Education
+  2006–2011 Computer Engineering, University of Campinas (UNICAMP), Campinas - Brazil.
+                Modality AA – Computer Systems
+  2004–2006 Pilot Officers Graduation Course (Curso de Formação de Oficiais Aviadores),
+            Brazilian Air Force Academy (Academia da Força Aérea), Pirassununga - Brazil,
+            Unfinished.
+                Ranked as Air Force Cadet.
+                Course curriculum covers the areas of Military Aviation and Business Administration.
+
+                Publications
+        2010 ViCOS - Virtual Cluster Orchestration System, CLCAR - Latin American
+             Conference on High Performance Computing, ISBN 978-85-7727-252-5.
+                An environment aware load balancing virtual cluster system that coordinates virtual machines
+                that offer some service (HPC, SOA, etc) in a failover cluster, making a multipurpose envi-
+                ronment which the main goal is to reduce the wasting of the infrastructure’s computational
+                potential.
+
+                Languages
+       Native   Portuguese
+       Fluent   English
+ Intermediate   German                                                                     A little bit rusty
+ Intermediate   Spanish                                                            Lived next to Argentina
+
+                Technical skills
+                Programming Languages
+                C/C++                                                                                6 years
+                C#                                                                                   7 years
+                Python                                                                               3 years
+
+                General Courses
+        2017 Machine Learning                                                                      Coursera
+
+
+
+                                                                                                        2/3
+2012   Lean Management Workshop                             Industrial Logic
+2012   Applying Advanced Object Design with Patterns         Craig Larman
+2011   Open Inventor Development                                       VSG
+2010   Smart Grid Research & Gateway Development                IBM/Tivoli
+2009   Network Performance Reporting                            IBM/Tivoli
+2009   Principles of Telecommunication Networks Managemen       IBM/Tivoli
+
+
+
+
+                                                                        3/3
+
