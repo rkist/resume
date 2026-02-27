@@ -1,0 +1,68 @@
+\documentclass[11pt]{article}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{lmodern}
+\usepackage{geometry}
+\usepackage{xcolor}
+\usepackage{paracol}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage{ragged2e}
+\usepackage{tikz}
+\usepackage{fontawesome5}
+\geometry{margin=1.0cm}
+\definecolor{primary}{HTML}{0B3861}
+\definecolor{secondary}{HTML}{0C7F8A}
+\definecolor{accent}{HTML}{F08B24}
+\titleformat{\section}{\Large\bfseries\color{primary}}{}{0em}{}
+\titleformat{\subsection}{\bfseries\color{secondary}}{}{0em}{}
+\setlist[itemize]{leftmargin=*}
+\renewcommand{\familydefault}{\sfdefault}
+\input{templates/canva-template/content.tex}
+
+\begin{document}
+\pagestyle{empty}
+
+\begin{tikzpicture}[remember picture,overlay]
+  \fill[primary] (current page.north west) rectangle ([yshift=-3.8cm]current page.north east);
+  \node[anchor=north west,inner sep=0.6cm] at ([xshift=0.4cm,yshift=-0.3cm]current page.north west) {
+    \color{white}\Huge\textbf{\ResumeName} \\
+    \normalsize\ResumeTitle
+  };
+  \node[anchor=north east,inner sep=0.6cm] at ([xshift=-0.4cm,yshift=-0.3cm]current page.north east) {
+    \color{white}\ResumeContact
+  };
+\end{tikzpicture}
+
+\vspace{3.4cm}
+
+\begin{paracol}{2}
+\setlength{\columnsep}{1.4cm}
+
+\begin{leftcolumn}
+  \section*{About}
+  \justify\ResumeTagline
+  \ResumeHighlights
+  \section*{Languages}
+  \ResumeLanguages
+  \section*{Skills}
+  \ResumeSkills
+\end{leftcolumn}
+
+\begin{rightcolumn}
+  \section*{Experience}
+  \ResumeExperience
+  \section*{Projects}
+  \begin{itemize}
+    \item Economic Data for Social Scientists — built dashboards linking public policy to revenue metrics.
+    \item Strategic Automation for CRM Health — translated raw data into cross-functional decision signals.
+  \end{itemize}
+  \section*{Education}
+  \textbf{MSc in Statistics (in progress)} \hfill 2023--2025 \\
+  Universidade de Campinas / MITx Fellow \\
+  \textbf{BSc in Economics} \hfill 2012--2019 \\
+  Universidade de São Paulo
+\end{rightcolumn}
+\end{paracol}
+
+\end{document}
